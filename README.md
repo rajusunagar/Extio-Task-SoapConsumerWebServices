@@ -27,30 +27,36 @@ https://spring.io/guides/tutorials/rest/
 
 # Execution Process
 
-Spring boot application will be excuted on http://localhost:9123 as server-port mentioned in applicaton.properties file
+Spring boot application will be excuted on http://localhost:8080 as server-port mentioned in applicaton.properties file
 
 # Project Structure
 
-![Project Structure](https://github.com/rajusunagar/Extio-Task-SoapConsumerApplication/blob/main/ScreenShots/ProjectStructure.png)
+![Project Structure](https://github.com/rajusunagar/Extio-Task-SoapConsumerWebServices/blob/main/Screenshots/Screenshot%20(56).png)
 
 # 1. Temperature conversion Web service [Celsius To Fahrenheit]
 
-Spring boot application will be executed on URl http://localhost:9123/convert/temperature?celsius=25 
+Spring boot application will be executed on URl http://localhost:8080/convert/celsius-to-fahrenheit?celsius=25
 
 For Example: Need to convert 25 celsius to Fahrenheit. According to my Spring boot project 25 celsius to be updated on end of URL like         
 **?celsius=25**
 
 For result observe the below screenshot
 
-![Temperature](https://github.com/rajusunagar/Extio-Task-SoapConsumerApplication/blob/main/ScreenShots/temperature1.png)
+![Temperature](https://github.com/rajusunagar/Extio-Task-SoapConsumerWebServices/blob/main/Screenshots/Screenshot%20(57).png)
 
 # 2. Number to word conversion Web serivce [Number To Words]
 
-Spring boot application will be executed on URl http://localhost:9123/convert/number?number=1233546
+Spring boot application will be executed on http://localhost:8080/convert/number-to-words?number=1233546
 
 For Example: Need to convert 1233546 number to words. According to my Spring boot project 1233546 number to be updated on end of URL like 
 **?number=1233546**
 
 For result observe the below screenshot
 
-![Number](https://github.com/rajusunagar/Extio-Task-SoapConsumerApplication/blob/main/ScreenShots/number1.png)
+![Number](https://github.com/rajusunagar/Extio-Task-SoapConsumerWebServices/blob/main/Screenshots/Screenshot%20(58).png)
+
+# Demo Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
