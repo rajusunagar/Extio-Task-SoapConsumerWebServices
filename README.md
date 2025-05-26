@@ -1,4 +1,4 @@
-# Extio-Task-SoapConsumerWebServices
+# Task-SoapConsumerWebServices
 
 Create a spring boot application to Consume below two SOAP Web services by creating RESTful interfaces to accept input in the GET parameter:
 
