@@ -55,9 +55,6 @@ For result observe the below screenshot
 
 ![Number](https://github.com/rajusunagar/Extio-Task-SoapConsumerWebServices/blob/main/Screenshots/Screenshot%20(58).png)
 
-# Demo Video
-
-[YouTube video](https://www.youtube.com/watch?v=7RjUwPWr1-g&ab_channel=RajuSunagar)
 
 
 
